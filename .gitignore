@@ -1,0 +1,9 @@
+# Oregon HIE source data (not redistributed)
+*.dta
+
+# Generated analysis outputs
+results/
+*.log
+
+# Operating-system files
+.DS_Store
